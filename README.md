@@ -2,11 +2,11 @@
 ### 1.**SCOPE**   
 ### 2.**HOISTING**
 ### 3.**Recursion**
-### 4.**Closure
+### 4.**Closure**
 _________________
 
 
-    ![Tux, the Linux mascot](/img/js.jpg)
+![Tux, the Linux mascot](/img/js.jpg)
 
 ## Введение в JavaScript scope
 Введение в JavaScript scope (область видимости функции, область видимости блока).
